@@ -218,3 +218,66 @@ __marimo__/
 .streamlit/secrets.toml
 venv_backend/
 
+
+
+### C#
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+!packages/build/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Publish
+publish/
+wwwroot/uploads/
+
+# Test Results
+TestResults/
+
+# Entity Framework
+*.dbmdl
+
+# Azure
+PublishProfiles/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# JetBrains
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Generated files
+Generated/
